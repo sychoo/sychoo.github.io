@@ -1,3 +1,7 @@
+# Structure
+Note that CNAME helps with GitHub page configuration, please do not move
+or delete the file. It should be in the root directory at all times
+
 # Jekyll Theme
 
 This is a port of Ghost's default theme [Casper v1](https://github.com/tryghost/casper) for Jekyll. Here is a live [demo](https://rosario.io/kasper). 
